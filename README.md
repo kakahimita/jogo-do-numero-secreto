@@ -1,4 +1,4 @@
-## Jogo do Número Secreto
+## Jogo do Número Secreto 🎲🤖
 
 Este repositório contém o código fonte para um simples jogo de adivinhação do número secreto, desenvolvido com HTML, CSS e JavaScript.
 
