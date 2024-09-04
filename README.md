@@ -1,8 +1,8 @@
-## Jogo do Número Secreto 🎲🤖
+## 🎲 Jogo do Número Secreto 
 
 Este repositório contém o código fonte para um simples jogo de adivinhação do número secreto, desenvolvido com HTML, CSS e JavaScript.
 
-**Objetivo:**
+**🤖 Objetivo:**
 
 O jogador deve adivinhar um número secreto gerado aleatoriamente pelo computador, dentro de um intervalo predefinido. A cada tentativa, o jogador recebe dicas se o número secreto é maior ou menor que o número digitado.
 
